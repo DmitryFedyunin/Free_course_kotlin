@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приложуха С голосом</string>
+
+    <string name="action_stop">Стоп</string>
+    <string name="action_clear">Очистить</string>
+
+    <string name="request_hint" translatable="false">Что вы ищите?</string>
+
+    <string name="error_do_not_understand" translatable="false">Простите, я не понимаю( повторите пожалуйста!</string>
+    <string name="error_voice_recognition_unavailable" translatable="false">Распознование голоса недоступно</string>
+    <string name="error_something_went_wrong" translatable="false">Что-то пошло не так</string>
+    <string name="error_tts_is_not_ready" translatable="false">TTS недоступен</string>
+
+</resources>

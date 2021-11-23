@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dmitriy Fedyunin/AndroidStudioProjects/My_First_Kotlin/app/src/main/res/drawable/ic_baseline_clear_all_24.xml" value="0.3828125" />
         <entry key="..\:/Users/Dmitriy Fedyunin/AndroidStudioProjects/My_First_Kotlin/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Dmitriy Fedyunin/AndroidStudioProjects/My_First_Kotlin/app/src/main/res/layout/item_cod.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Dmitriy Fedyunin/AndroidStudioProjects/My_First_Kotlin/app/src/main/res/menu/tool_bar.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
